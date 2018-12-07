@@ -1,3 +1,9 @@
+### 4.6.0 (December 7, 2018)
+
+* Add support for unsetting utm params when a new session is created
+* Update dependencies to pass yarn audit
+* Bugfix: Allow logLevel to be set to disabled.
+
 ### 4.5.2 (November 10, 2018)
 
 * Bugfix: Default groupProperties to empty object in logEvent.
