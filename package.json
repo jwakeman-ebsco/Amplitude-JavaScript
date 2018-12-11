@@ -1,21 +1,21 @@
 {
   "name": "amplitude-js",
   "author": "Amplitude <support@amplitude.com>",
-  "version": "4.6.0-beta.1",
+  "version": "4.6.1-beta.1",
   "license": "MIT",
   "description": "Javascript library for Amplitude Analytics",
   "keywords": [
     "analytics",
     "amplitude"
   ],
-  "repository": "git://github.com/amplitude/amplitude-javascript.git",
+  "repository": "git://github.com/jwakeman-ebsco/Amplitude-JavaScript.git",
   "main": "amplitude.js",
   "dependencies": {
     "blueimp-md5": "^2.10.0",
     "json3": "^3.3.2",
     "lodash": "^4.17.4",
     "query-string": "5",
-    "ua-parser-js": "github:amplitude/ua-parser-js#ed538f1"
+    "ua-parser-js": "^0.7.19"
   },
   "devDependencies": {
     "babel-core": "6",
